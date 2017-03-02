@@ -1,2 +1,2 @@
 # labrynth-machinima
-Machinima for EAE 3660
+Machinima Project for EAE 3660
